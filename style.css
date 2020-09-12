@@ -266,8 +266,11 @@ a {
 	color: #ffffff;
 }
 /*-----Call to action Starts-------*/
+.call-to-action h3{
+	font-size: 63px;
+}
 
-/*-----About Starts-------*/
+/*-----Shop / About Starts-------*/
 .about {
 	padding: 50px 0px;
 	width: 100%;
@@ -432,6 +435,24 @@ ul.social-buttons li a:hover, ul.social-buttons li a:focus, ul.social-buttons li
 .banner-text h2 {
 	font-size: 35px;
 }
+.banner-text p {
+	font-size: 20px;
+}
+.call-to-action h4{
+	font-size: 25px;
+}
+.call-to-action h3{
+	font-size: 35px;
+}
+.portfolio h3 {
+	margin-top: 0px;
+	margin-bottom: 50px;
+	border-bottom: 2px solid #EB233C;
+	display: inline-block;
+	line-height: 35px;
+	font-size: 35px;
+}
+
 nav > li > a:focus, .nav > li > a:hover, .nav > li > a:focus, .nav > li.active > a {
 	border-bottom: none;
 	;
